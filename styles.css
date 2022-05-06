@@ -8,3 +8,14 @@ blockquote {
     font-weight: 900;
     font-family:'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,  'Helvetica Neue', sans-serif;
 }
+button {
+    font-size: 0.7em;
+    padding: 10px;
+    font-style: bold;
+    font-weight: 700;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,  'Helvetica Neue', sans-serif;
+    margin: 2px 3px 0px 2px;
+    background: linear-gradient(180deg , darkgreen 33%, white 33%, white 66%, darkgreen 66%);
+    color: black;
+    border: 1px dotted white;
+}
